@@ -1,0 +1,25 @@
+|L   0|2026/10/15,00:22:17.499807|Daniels-MacBook-Pro.local| |T 0|2654660.380000| 
+     REALTIME SHUTDOWN STATS:
+            ACTUAL INIT TIME:        0.137
+         ACTUAL ELAPSED TIME:       27.533
+|L   0|2026/10/15,00:22:18.166253|Daniels-MacBook-Pro.local| |T 0|2654660.380000| 
+SIMULATION TERMINATED IN
+  PROCESS: 0
+  ROUTINE: Executive_loop_single_thread.cpp:85
+  DIAGNOSTIC: Sim control Shutdown
+
+              SIMULATION START TIME:        0.000
+               SIMULATION STOP TIME:  2654660.380
+            SIMULATION ELAPSED TIME:  2654660.380
+                 USER CPU TIME USED:       26.589
+               SYSTEM CPU TIME USED:        6.588
+              SIMULATION / CPU TIME:    80016.471
+       INITIALIZATION USER CPU TIME:        0.122
+     INITIALIZATION SYSTEM CPU TIME:        0.017
+               SIMULATION RAM USAGE:       64.719MB
+      (External program RAM usage not included!)
+  VOLUNTARY CONTEXT SWITCHES (INIT):            2
+INVOLUNTARY CONTEXT SWITCHES (INIT):           46
+   VOLUNTARY CONTEXT SWITCHES (RUN):           27
+ INVOLUNTARY CONTEXT SWITCHES (RUN):      2633551
+

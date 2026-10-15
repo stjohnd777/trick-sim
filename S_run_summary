@@ -1,0 +1,52 @@
+
+===============================================================================
+General:
+
+Executable called = /Users/danielst.johnst.john/development/sandbox/cpp/SIM_cannon_analytic/build/S_main
+Input file = 
+S_main build time = Thu Oct 15 00:05:21 2026
+Trick version = 25.1.2-beta
+
+===============================================================================
+Build time Environment:
+
+TRICK_CC = /usr/bin/gcc
+TRICK_CFLAGS = -I/Users/danielst.johnst.john/development/sandbox/cpp/SIM_cannon_analytic/models/cannon/..
+TRICK_CONVERT_SWIG_FLAGS = 
+TRICK_CPFLAGS = 
+TRICK_CXX = /usr/bin/g++
+TRICK_CXXFLAGS = -I/Users/danielst.johnst.john/development/sandbox/cpp/SIM_cannon_analytic/models/cannon/..
+TRICK_DEBUG = 0
+TRICK_EDITOR = 
+TRICK_EXEC_LINK_LIBS = -lpthread -L/opt/anaconda3/lib/python3.12/config-3.12-darwin -lpython3.12 -ldl -framework CoreFoundation -lpython3.12 -ldl -framework CoreFoundation   -L/opt/homebrew/lib -ludunits2  -lm -ldl -L/opt/homebrew/lib -lhdf5_hl -lhdf5 -lsz -L/opt/homebrew/lib -lgsl -lgslcblas
+TRICK_EXT_LIB_DIRS = 
+TRICK_EXT_LIB_DIRS_OVERRIDES = 
+TRICK_FORCE_32BIT = OFF
+TRICK_GTE_EXT = 
+TRICK_HOME = /Users/danielst.johnst.john/development/github/trick
+TRICK_HOST_CPU = Darwin_25
+TRICK_HOST_CPU_USER_SUFFIX = 
+TRICK_HOST_TYPE = Darwin
+TRICK_ICGFLAGS = 
+TRICK_ICG_COMPAT15 = 
+TRICK_ICG_EXCLUDE = 
+TRICK_ICG_IGNORE_TYPES = 
+TRICK_ICG_NOCOMMENT = 
+TRICK_LDFLAGS = 
+TRICK_MAKE = 
+TRICK_PATH = /Users/danielst.johnst.john/development/github/trick/libexec/bin
+TRICK_PRINTER_NAME = 
+TRICK_PRINT_CMD = lpr
+TRICK_PYTHON_PATH = 
+TRICK_SFLAGS = 
+TRICK_SWIG_EXCLUDE = 
+TRICK_SYSTEM_CFLAGS = -isystem/Users/danielst.johnst.john/development/github/trick/trick_source -isystem/Users/danielst.johnst.john/development/github/trick/include -isystem/Users/danielst.johnst.john/development/github/trick/include/trick/compat -DTRICK_VER=25 -DTRICK_MINOR=1 -fpic -I/opt/homebrew/include -DUSE_ER7_UTILS_INTEGRATORS -fcolor-diagnostics -I/opt/homebrew/include -D_HAVE_GSL -fexceptions 
+TRICK_SYSTEM_CXXFLAGS = -isystem/Users/danielst.johnst.john/development/github/trick/trick_source -isystem/Users/danielst.johnst.john/development/github/trick/include -isystem/Users/danielst.johnst.john/development/github/trick/include/trick/compat -DTRICK_VER=25 -DTRICK_MINOR=1 -fpic -I/opt/homebrew/include -DUSE_ER7_UTILS_INTEGRATORS -fcolor-diagnostics -I/opt/homebrew/include -D_HAVE_GSL 
+TRICK_SYSTEM_LDFLAGS = 
+TRICK_USER_CSHRC = /Users/danielst.johnst.john/.Trick_user_cshrc
+TRICK_USER_HOME = /Users/danielst.johnst.john/trick_sims
+TRICK_USER_LINK_LIBS = 
+TRICK_USER_PROFILE = /Users/danielst.johnst.john/.Trick_user_profile
+TRICK_VER = trick_dev
+XML_CATALOG_FILES = /Users/danielst.johnst.john/development/github/trick/libexec/trick_source/data_products/DPX/XML/catalog.xml
+

@@ -1,0 +1,31 @@
+# CMake build products
+/build/
+/out/
+/cmake-build-*/
+/CMakeUserPresets.json
+/compile_commands.json
+
+# Trick diagnostic products and run logs
+/DP_Product/
+/RUN_*/S_job_execution
+/RUN_*/S_run_summary
+/RUN_*/_init_log.csv
+/RUN_*/send_hs
+/RUN_*/varserver_log
+
+# Classic Trick build products
+/.trick/
+/S_source.hh
+/S_sie.resource
+/S_sie.json
+/S_main*.exe
+/T_main*.exe
+/makefile
+/trick.zip
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# macOS metadata
+.DS_Store

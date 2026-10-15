@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug cannon simulation",
+            "type": "lldb",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/S_main",
+            "args": ["${workspaceFolder}/RUN_test/input.py"],
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        }
+    ]
+}
